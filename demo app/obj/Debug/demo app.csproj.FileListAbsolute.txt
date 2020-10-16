@@ -1,0 +1,15 @@
+C:\Users\numpu\Desktop\demo app\demo app\bin\Debug\demo app.exe.config
+C:\Users\numpu\Desktop\demo app\demo app\bin\Debug\demo app.exe
+C:\Users\numpu\Desktop\demo app\demo app\bin\Debug\demo app.pdb
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app.csprojAssemblyReference.cache
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\MainWindow.g.cs
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\App.g.cs
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app_MarkupCompile.cache
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app_MarkupCompile.lref
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\MainWindow.baml
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app.g.resources
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo_app.Properties.Resources.resources
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app.csproj.GenerateResource.cache
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app.csproj.CoreCompileInputs.cache
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app.exe
+C:\Users\numpu\Desktop\demo app\demo app\obj\Debug\demo app.pdb

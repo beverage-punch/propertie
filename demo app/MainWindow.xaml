@@ -1,0 +1,21 @@
+﻿<Window x:Class="demo_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demo_app"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid IsEnabled="False" OpacityMask="#FFDC1D1D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="129*"/>
+            <RowDefinition Height="290*"/>
+        </Grid.RowDefinitions>
+        <Button Content="register" HorizontalAlignment="Left" Height="57" Margin="69,102.814,0,0" VerticalAlignment="Top" Width="114" BorderBrush="#FF591791" Background="#FFC57070" Foreground="#FFE62727" Click="Button_Click" Loaded="Button_Loaded" Grid.Row="1"/>
+        <Label Content="ID :" HorizontalAlignment="Left" Height="29" Margin="69,117,0,0" VerticalAlignment="Top" Width="145" RenderTransformOrigin="0.501,2.493" Grid.RowSpan="2"/>
+        <Label Content="password:" HorizontalAlignment="Left" Height="29" Margin="69,37.814,0,0" VerticalAlignment="Top" Width="145" RenderTransformOrigin="0.501,2.493" Grid.Row="1"/>
+        <TextBox x:Name="B" HorizontalAlignment="Left" Height="23" Margin="172,41.814,0,0" TextWrapping="Wrap" Text="your password" VerticalAlignment="Top" Width="120" Grid.Row="1" MouseDoubleClick="TextBox_MouseDoubleClick"/>
+        <TextBox x:Name="A" Height="23" Margin="0,0,500,273" TextWrapping="Wrap" Text="your ID" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="120" Grid.RowSpan="2" MouseDoubleClick="TextBox_MouseDoubleClick"/>
+
+    </Grid>
+</Window>
